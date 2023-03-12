@@ -1,0 +1,15 @@
+{
+  "editor.tokenColorCustomizations": {
+    "[Synthwave x Fluoromachine]": {
+      "textMateRules": [
+        {
+          "name": "Plain text color override",
+          "scope": "text",
+          "settings": {
+            "foreground": "#ffffff"
+          }
+        }
+      ]
+    }
+  }
+}
