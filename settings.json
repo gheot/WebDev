@@ -8,9 +8,12 @@
   "files.autoSave": "afterDelay",
   "explorer.compactFolders": false,
   "workbench.iconTheme": "vscode-icons",
-  "window.zoomLevel": 0,
   "prettier.printWidth": 120,
-  "workbench.colorCustomizations": {},
+  "workbench.colorCustomizations": {
+    "workbench.colorCustomizations": {
+      "editor.selectionBackground": "#000"
+    }
+  },
   "workbench.colorTheme": "Synthwave x Fluoromachine",
   /* Make self-closing HTML tags glow */
   "vscode_custom_css.imports": [

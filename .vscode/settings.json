@@ -11,5 +11,10 @@
         }
       ]
     }
-  }
+  },
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#00CCCC",
+    "terminal.selectionBackground": "#FFAA00"
+  },
+  "window.zoomLevel": 0
 }
